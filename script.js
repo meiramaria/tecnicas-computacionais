@@ -10,7 +10,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: 
+                afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer "
+                ]
                 afirmacao:"No início ficou com medo do que essa tecnologia pode fazer"
             },
             {
@@ -29,8 +30,8 @@ const perguntas = [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
                 afirmacao:["Conseguiu utilizar a IA para buscar informações úteis,"
-                    " Percebeu que a IA pode ajudar a encontrar informaçoẽs úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que IA pode ajudar a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos  "
+                    "Percebeu que a IA pode ajudar a encontrar informaçoẽs úteis na internet de forma mais rápida e direcionada.",
+                    "Percebeu que IA pode ajudar a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos"
                 ]
             }
             {
