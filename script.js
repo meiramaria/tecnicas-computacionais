@@ -12,7 +12,7 @@ const perguntas = [
                 texto: "Isso é assustador!",
                 afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer "
                 ]
-                afirmacao:"No início ficou com medo do que essa tecnologia pode fazer"
+                afirmação:"No início ficou com medo do que essa tecnologia pode fazer"
             },
             {
                 texto: "Isso é maravilhoso!",
@@ -22,42 +22,45 @@ const perguntas = [
             }           
             
         ]
-    }
-    {
+    },
+      {
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
         alternativas: 
-    ] 
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:["Conseguiu utilizar a IA para buscar informações úteis,"
+                afirmacao:["Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informaçoẽs úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que IA pode ajudar a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos"
                 ]
             }
-            {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:["Sentiu mais facilidade em utilizar seus própios recursos para vender seu trabalho"
+
+                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                afirmacao:["Sentiu mais facilidade em utilizar seus própios recursos para vender seu trabalho",
                  "Achou que era muito mais fácil procurar por respostas utilizando alguns meios tradicionais mesmo que levasse mais tempo.",
-                "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia urtilizar por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                "Senti um pouco de medo de quais dados pessoais seus a IA poderia urtilizar por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
      ]
 
             }
-        
+           
     
     {
         enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: 
+        alternativas: [ 
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas."
-                afirmacao:"afirmacao"
-            }
+                afirmacao:["Vem impulsionar a inovação na área de IA e lutar para os novos caminhos profissionias com IA.",
+                    "Participa ativamente do desenvolvimento de soluções criativas e na maioria de processos em IA."
+                ]
+            },
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",.
-                afirmacao:"afirmacao"
+                texto:"Eu me preocupo com as pessoas qeu perderam seus empregos para máquinas e defenderão a importancia de proteger os trabalhadores.",
+                afirmacao:["Sua preocupação com as pessoas motivou a criar um grupo de estudos entre os trabalhadores para discutir meios de utilização de IA de forma ética.",
+                    "Criou grupos de ética voltados para IA e busca produtividade aumenta a desigualdades geradas pela automação."
+                ]
             }
             
         ]
-    }
+    }, 
     {
         enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
