@@ -17,9 +17,8 @@ const perguntas = [
             } 
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: 
-            Qu     ber Omo usar IA no seu dia a dia.",
-              
+                afirmacao:Quis saber como usar IA no seu dia a dia.",
+                "Foi atrás de videos, antigos e mais informações sobre como ultilizar essa tecnologia."
             }           
             
         
@@ -54,12 +53,11 @@ const perguntas = [
                 ]
             },
             {
-                texto:"Eu me preocupo com as pessoas qeu perderam seus empregos para máquinas e defenderão a importancia de proteger os trabalhadores.",
+                texto:"Me preocupo com as pessoas qeu perderam seus empregos para máquinas e defenderão a importancia de proteger os trabalhadores.",
                 afirmacao:["Sua preocupação com as pessoas motivou a criar um grupo de estudos entre os trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltados para IA e busca produtividade aumenta a desigualdades geradas pela automação."
                 ]
             }
-            
         ]
     }, 
     {
