@@ -13,15 +13,16 @@ const perguntas = [
                 afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer "
                 ]
                 afirmação:"No início ficou com medo do que essa tecnologia pode fazer"
-            },
+                "Achou asssutador pensar na velocidade na qual a tecnologia esta avançadas", 
+            } 
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: 
-                "Quis saber como usar IA no seu dia a dia.",
-            
+            Qu     ber Omo usar IA no seu dia a dia.",
+              
             }           
             
-        ]
+        
     },
       {
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
